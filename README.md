@@ -1,7 +1,7 @@
 # game_purchase_analysis
 Analyzing purchase data of an online game 
 
-The game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
+Python was used to analyze purchase data for an online free-to-play game where players may buy in-game items to improve their experience. Produced extensive reports that examined purchase data, giving the organization with useful insights and practical recommendations. By detecting patterns and trends in player spending behavior, I was able to help optimize the game's monetization approach.
 
 
 
